@@ -648,6 +648,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 <p align="center">
   <sub>शिक्षक IQ — Empowering Teachers, Enlightening Minds</sub>
 </p>
-=======
-# ShikshakIQ
->>>>>>> 06f0e61492b2f201abe7e713e55f81d9f21b33b0
+
