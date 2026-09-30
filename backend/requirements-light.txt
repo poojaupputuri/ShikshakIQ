@@ -1,0 +1,17 @@
+# Core web framework
+Flask==2.3.3
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.7.4
+Flask-Cors==4.0.0
+gunicorn==25.1.0
+python-dotenv==1.0.0
+Werkzeug==3.0.6
+
+# Google Gemini AI
+google-generativeai==0.8.6
+google-genai==2.7.0
+
+# Utilities
+requests==2.32.5
+Pillow==11.3.0
+openpyxl==3.1.5

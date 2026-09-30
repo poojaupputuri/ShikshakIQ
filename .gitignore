@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+venv*/
+*.venv
+
+# Node
+shikshak-iq/node_modules/
+shikshak-iq/.vite/
+shikshak-iq/dist/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Database
+backend/instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads
+backend/uploads/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+backend/*.log
+shikshak-iq/*.log
+
+# OS
+Desktop.ini
+
+# Deployment artifacts
+*.zip
+shikshak-iq-deploy.zip
+
+.vercel
+.env*
