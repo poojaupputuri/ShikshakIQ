@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 ShikshakIQ — AI-Powered Educational Intelligence Platform
 
 <p align="center">
